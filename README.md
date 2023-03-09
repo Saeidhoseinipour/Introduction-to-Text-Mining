@@ -56,3 +56,13 @@ Potential future directions for the field: Potential future directions for text 
 | Ethical considerations taken into account throughout the entire process. | 5 |
 | Total | 100 |
 
+
+| Dataset | Description | Features |
+|---------|-------------|----------|
+| IMDB movie reviews | A collection of 50,000 movie reviews from IMDB, labeled as positive or negative. | Text data, sentiment labels |
+| Reuters news corpus | A collection of over 10,000 news articles from Reuters, labeled by topic. | Text data, topic labels |
+| 20 Newsgroups | A collection of 20,000 newsgroup posts on 20 different topics, including sports, politics, and religion. | Text data, topic labels |
+| Twitter sentiment analysis | A collection of tweets labeled as positive, negative, or neutral. | Text data, sentiment labels |
+| Amazon product reviews | A collection of customer reviews for various products sold on Amazon, labeled as positive or negative. | Text data, sentiment labels |
+| Enron emails | A collection of emails from the Enron Corporation, used for email classification and clustering. | Text data, email metadata |
+
