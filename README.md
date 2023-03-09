@@ -9,8 +9,10 @@ In this book, we will cover the basics of text mining and its applications. We w
 
 ## What is Text Mining?
 
-*Definition of text mining*: Text mining is the process of analyzing and extracting useful information from unstructured or semi-structured text data, such as emails, social media posts, news articles, or customer reviews.
+**Definition of text mining**: Text mining is the process of analyzing and extracting useful information from unstructured or semi-structured text data, such as emails, social media posts, news articles, or customer reviews.
+
 **Text mining vs. data mining**: Data mining refers to the process of discovering patterns in structured data, such as databases, while text mining focuses on unstructured or semi-structured text data.
+
 **Text mining vs. natural language processing (NLP)**: NLP is a subfield of artificial intelligence that deals with the interaction between computers and human language, while text mining is focused on extracting insights and patterns from text data.
 
 ## Why Text Mining Matters
