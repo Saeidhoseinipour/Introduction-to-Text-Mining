@@ -7,7 +7,7 @@ For example, let's say a company wants to improve their customer service by anal
 
 In this book, we will cover the basics of text mining and its applications. We will start with an overview of the different techniques used in text mining and how they can be applied to solve real-world problems. We will also cover preprocessing text data, which is the necessary first step before applying text mining techniques. We will then dive into different text mining techniques, such as sentiment analysis, topic modeling, text classification, text clustering, and text summarization. Finally, we will cover the applications of text mining and the future directions of the field.
 
-1.1 What is Text Mining?
+## What is Text Mining?
 
 Definition of text mining: Text mining is the process of analyzing and extracting useful information from unstructured or semi-structured text data, such as emails, social media posts, news articles, or customer reviews.
 Text mining vs. data mining: Data mining refers to the process of discovering patterns in structured data, such as databases, while text mining focuses on unstructured or semi-structured text data.
