@@ -17,9 +17,11 @@ In this book, we will cover the basics of text mining and its applications. We w
 
 ## Why Text Mining Matters
 
-The rise of unstructured data: According to some estimates, unstructured data represents up to 80% of all data generated today. Text mining is crucial for making sense of this vast amount of unstructured data.
-The value of insights from text data: Text mining can help businesses gain insights into customer sentiment, competitors, market trends, and other valuable information that would be difficult or impossible to obtain through other means.
-Applications of text mining: Text mining is used in a wide range of industries, including marketing, finance, healthcare, and social media analysis.
+**The rise of unstructured data**: According to some estimates, unstructured data represents up to 80% of all data generated today. Text mining is crucial for making sense of this vast amount of unstructured data.
+
+**The value of insights from text data**: Text mining can help businesses gain insights into customer sentiment, competitors, market trends, and other valuable information that would be difficult or impossible to obtain through other means.
+
+**Applications of text mining**: Text mining is used in a wide range of industries, including marketing, finance, healthcare, and social media analysis.
 ## Types of Text Data
 
 Different types of text data: Examples of text data include emails, social media posts, news articles, customer reviews, legal documents, and medical records.
