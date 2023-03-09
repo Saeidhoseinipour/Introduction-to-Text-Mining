@@ -66,3 +66,20 @@ Potential future directions for the field: Potential future directions for text 
 | Amazon product reviews | A collection of customer reviews for various products sold on Amazon, labeled as positive or negative. | Text data, sentiment labels |
 | Enron emails | A collection of emails from the Enron Corporation, used for email classification and clustering. | Text data, email metadata |
 
+
+| Dataset Name | Problems/Challenges | Insights | Methods/Models |
+|--------------|---------------------|----------|----------------|
+| IMDB Movie Reviews | Text cleaning, Feature engineering, Sentiment analysis, Topic modeling | Movie genres with the most positive/negative sentiment, Top positive/negative words | Bag of words, Naive Bayes, LDA, Word embeddings, Text summarization |
+| Twitter Sentiment Analysis | Sarcasm detection, Emotion detection, Misinterpretation of language | Brand reputation, Customer satisfaction, Trend analysis | SVM, Logistic regression, CNN, RNN, Sentiment analysis tools (VADER, TextBlob) |
+| Amazon Product Reviews | Feature extraction, Label imbalanced data, Aspect-based sentiment analysis | Product features with highest/lowest ratings, Common complaints/praises | Word2Vec, LSTM, CNN, Aspect-based sentiment analysis, Feature selection |
+| News Articles | Text classification, Topic modeling, Named entity recognition | Trend analysis, Article categorization, Entity identification | TF-IDF, Word2Vec, LDA, SVM, CRF, Deep learning algorithms |
+| Medical Records | Privacy concerns, Incomplete data, Lack of standardization | Disease diagnosis, Treatment effectiveness, Disease progression | Text mining, Machine learning, Deep learning, Natural language processing, Clinical decision support systems |
+| Customer Reviews | Fake reviews, Biased opinions, Lack of context | Brand reputation, Customer feedback, Market trends | Sentiment analysis, Topic modeling, Text classification, Feature selection |
+| Job Postings | Ambiguous job titles, Vague requirements, Duplicate listings | Job market trends, Required skills, Salary trends | Text classification, Named entity recognition, Clustering, Deep learning algorithms |
+| Scientific Papers | Technical language, Long documents, Information overload | Research trends, Key findings, Collaboration analysis | Topic modeling, Word embeddings, Text summarization, Citation analysis |
+| Email Communication | Spam detection, Email classification, Text summarization | Email categorization, Communication patterns, Email clustering | Text classification, Sentiment analysis, LDA, Text summarization, Email visualization |
+| Online Reviews | Rating system bias, Lack of context, Data quality issues | Product/service evaluation, Customer feedback, Market trends | Sentiment analysis, Topic modeling, Text classification, Feature selection |
+| Wikipedia Articles | Information redundancy, Disambiguation, Unstructured data | Knowledge extraction, Topic modeling, Entity recognition | LDA, TF-IDF, Named entity recognition, Text summarization |
+| Legal Documents | Legal jargon, Long documents, Lack of standardization | Case law analysis, Contract analysis, Legal trends | Text mining, Named entity recognition, Sentiment analysis, Text summarization, Topic modeling |
+| Social Media Posts | Short messages, Emoticons, Slang language | Social trends, User behavior, Opinion mining | Sentiment analysis, Topic modeling, Text classification, Social network analysis |
+
