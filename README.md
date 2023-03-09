@@ -86,16 +86,16 @@ Potential future directions for the field: Potential future directions for text 
 
 Here are some potential insights that can be gained after performing text mining:
 
-Customer sentiment: Text mining can be used to analyze customer feedback from reviews, social media, and other sources to identify patterns in sentiment. This information can be used to improve customer satisfaction, identify product issues, and develop more effective marketing strategies.
+**Customer sentiment**: Text mining can be used to analyze customer feedback from reviews, social media, and other sources to identify patterns in sentiment. This information can be used to improve customer satisfaction, identify product issues, and develop more effective marketing strategies.
 
-Competitor analysis: Text mining can be used to analyze competitors' websites, social media, and other sources to identify their strengths and weaknesses, as well as opportunities for differentiation. This information can be used to develop more effective marketing strategies and to identify potential threats to the business.
+**Competitor analysis**: Text mining can be used to analyze competitors' websites, social media, and other sources to identify their strengths and weaknesses, as well as opportunities for differentiation. This information can be used to develop more effective marketing strategies and to identify potential threats to the business.
 
-Market trends: Text mining can be used to analyze news articles, social media, and other sources to identify emerging market trends. This information can be used to identify new opportunities and to adjust business strategies accordingly.
+**Market trends**: Text mining can be used to analyze news articles, social media, and other sources to identify emerging market trends. This information can be used to identify new opportunities and to adjust business strategies accordingly.
 
-Product feedback: Text mining can be used to analyze customer feedback from reviews and other sources to identify issues with products, as well as to identify areas where improvements can be made. This information can be used to improve product design and development.
+**Product feedback**: Text mining can be used to analyze customer feedback from reviews and other sources to identify issues with products, as well as to identify areas where improvements can be made. This information can be used to improve product design and development.
 
-Fraud detection: Text mining can be used to analyze financial documents and other sources to identify patterns of fraud. This information can be used to prevent fraudulent activity and to improve financial reporting accuracy.
+**Fraud detection**: Text mining can be used to analyze financial documents and other sources to identify patterns of fraud. This information can be used to prevent fraudulent activity and to improve financial reporting accuracy.
 
-Medical research: Text mining can be used to analyze medical records and scientific literature to identify patterns and relationships between diseases, treatments, and outcomes. This information can be used to improve medical research and treatment options.
+**Medical research**: Text mining can be used to analyze medical records and scientific literature to identify patterns and relationships between diseases, treatments, and outcomes. This information can be used to improve medical research and treatment options.
 
 Overall, text mining can provide valuable insights that can inform decision-making, improve business outcomes, and drive innovation.
