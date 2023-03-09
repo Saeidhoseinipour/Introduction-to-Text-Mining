@@ -24,25 +24,31 @@ In this book, we will cover the basics of text mining and its applications. We w
 **Applications of text mining**: Text mining is used in a wide range of industries, including marketing, finance, healthcare, and social media analysis.
 ## Types of Text Data
 
-Different types of text data: Examples of text data include emails, social media posts, news articles, customer reviews, legal documents, and medical records.
-Challenges of analyzing text data: Text data is often noisy, ambiguous, and context-dependent, which makes it challenging to analyze. Additionally, different types of text data may require different preprocessing and analysis techniques.
+**Different types of text data**: Examples of text data include emails, social media posts, news articles, customer reviews, legal documents, and medical records.
+
+**Challenges of analyzing text data**: Text data is often noisy, ambiguous, and context-dependent, which makes it challenging to analyze. Additionally, different types of text data may require different preprocessing and analysis techniques.
+
 ## Text Mining Techniques
 
-Overview of different text mining techniques: Text mining techniques include sentiment analysis, topic modeling, text classification, text clustering, and text summarization.
-Examples of how these techniques are used: For example, sentiment analysis can be used to analyze customer feedback and identify whether the sentiment is positive, negative, or neutral. Topic modeling can be used to identify the main themes or topics in a collection of documents.
+**Overview of different text mining techniques**: Text mining techniques include sentiment analysis, topic modeling, text classification, text clustering, and text summarization.
+
+**Examples of how these techniques are used**: For example, sentiment analysis can be used to analyze customer feedback and identify whether the sentiment is positive, negative, or neutral. Topic modeling can be used to identify the main themes or topics in a collection of documents.
+
 ## Applications of Text Mining
 
-Overview of different industries and use cases for text mining: Examples of industries that use text mining include marketing, where it is used for brand monitoring and customer feedback analysis; finance, where it is used for fraud detection and risk assessment; and healthcare, where it is used for disease surveillance and drug discovery.
-Examples of how text mining has been used to solve real-world problems: For example, text mining has been used to analyze social media data to predict flu outbreaks, and to analyze customer feedback to improve product design and customer satisfaction.
+**Overview of different industries and use cases for text mining**: Examples of industries that use text mining include marketing, where it is used for brand monitoring and customer feedback analysis; finance, where it is used for fraud detection and risk assessment; and healthcare, where it is used for disease surveillance and drug discovery.
+
+**Examples of how text mining has been used to solve real-world problems**: For example, text mining has been used to analyze social media data to predict flu outbreaks, and to analyze customer feedback to improve product design and customer satisfaction.
 
 ## Tools and Technologies for Text Mining
 
-Overview of popular text mining tools and technologies: Examples of popular text mining tools and technologies include Python libraries such as NLTK and spaCy, commercial software such as RapidMiner and IBM Watson, and open-source software such as Apache OpenNLP.
-Advantages and limitations of different tools: Different text mining tools have different strengths and weaknesses, and the choice of tool will depend on the specific needs and goals of the user.
+**Overview of popular text mining tools and technologies**: Examples of popular text mining tools and technologies include Python libraries such as NLTK and spaCy, commercial software such as RapidMiner and IBM Watson, and open-source software such as Apache OpenNLP.
+
+**Advantages and limitations of different tools**: Different text mining tools have different strengths and weaknesses, and the choice of tool will depend on the specific needs and goals of the user.
 
 ## Future Directions of Text Mining
 
-Current trends in text mining research: Some current trends in text mining research include the use of deep learning models for text analysis, the development of more advanced text preprocessing techniques, and the integration of text mining with other AI technologies such as computer vision and speech recognition.
+**Current trends in text mining research**: Some current trends in text mining research include the use of deep learning models for text analysis, the development of more advanced text preprocessing techniques, and the integration of text mining with other AI technologies such as computer vision and speech recognition.
 Potential future directions for the field: Potential future directions for text mining include the development of more advanced natural language understanding capabilities, the use of text mining for more complex tasks such as dialogue systems and language translation, and the integration of text mining with other
 
 | Checklist Item | Score |
