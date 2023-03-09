@@ -1,3 +1,5 @@
+![NMTF](https://github.com/Saeidhoseinipour/NMTFcoclust/blob/master/Doc/Image/nmtf7.png?raw=true)
+
 # Introduction to Text Mining
  This repository would introduce the field of text mining and its applications. It could also provide an overview of the different techniques used in text mining.
 
